@@ -6,7 +6,8 @@ I made this project to help me organize information that I had been previously k
 
 To run this program, simply clone the repo (or copy/paste the main.py file) and run it with python 3. The program implements a shell, and you can use 'help' to get a list of all possible commands.
 
-
+Example:
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/81823653/229314163-a3d929a6-7acc-4e7b-a38e-526ed273729d.png">
 
 
 Future extensions:
