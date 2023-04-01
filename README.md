@@ -6,3 +6,8 @@ I made this project to help me organize information that I had been previously k
 
 To run this program, simply clone the repo (or copy/paste the main.py file) and run it with python 3. The program implements a shell, and you can use 'help' to get a list of all possible commands.
 
+
+
+
+Future extensions:
+Enable deleting items
